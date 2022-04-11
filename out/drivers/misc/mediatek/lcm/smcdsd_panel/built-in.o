@@ -1,0 +1,21 @@
+!<thin>
+//                                              156       `
+smcdsd_panel_init.o/
+smcdsd_panel.o/
+smcdsd_board.o/
+smcdsd_notify.o/
+smcdsd_abd.o/
+panels/dpui.o/
+panels/mdnie.o/
+panels/ea8076_a31.o/
+panels/timenval.o/
+
+/0              0           0     0     644     210448    `
+/21             0           0     0     644     214584    `
+/37             0           0     0     644     289312    `
+/53            /0           0     0     644     200344    `
+/70             0           0     0     644     303408    `
+/84             0           0     0     644     161408    `
+/99             0           0     0     644     239336    `
+/115            0           0     0     644     514008    `
+/136            0           0     0     644     12680     `

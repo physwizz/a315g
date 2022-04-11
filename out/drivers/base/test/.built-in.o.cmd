@@ -1,0 +1,1 @@
+cmd_drivers/base/test/built-in.o :=  rm -f drivers/base/test/built-in.o; /home/grahame/toolchains/aarch64-linux-android-4.9-master/bin/aarch64-linux-androidkernel-ar rcSTPD drivers/base/test/built-in.o

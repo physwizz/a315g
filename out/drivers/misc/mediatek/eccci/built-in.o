@@ -1,0 +1,85 @@
+!<thin>
+//                                              778       `
+ccci_core.o/
+ccci_bm.o/
+ccci_modem.o/
+modem_sys1.o/
+ccci_auxadc.o/
+modem_sys3.o/
+modem_io_device.o/
+fsm/ccci_fsm.o/
+fsm/ccci_fsm_ioctl.o/
+fsm/ccci_fsm_monitor.o/
+fsm/ccci_fsm_poller.o/
+fsm/ccci_fsm_scp.o/
+fsm/ccci_fsm_ee.o/
+fsm/ccci_fsm_sys.o/
+fsm/mdee_dumper_v1.o/
+fsm/mdee_dumper_v2.o/
+fsm/mdee_dumper_v3.o/
+fsm/mdee_dumper_v5.o/
+hif/ccci_hif.o/
+hif/ccci_hif_cldma.o/
+hif/ccci_hif_dpmaif.o/
+hif/dpmaif_drv.o/
+hif/net_speed_monitor.o/
+hif/ccci_ringbuf.o/
+hif/ccci_hif_ccif.o/
+port/port_cfg.o/
+port/port_char.o/
+port/port_ctlmsg.o/
+port/port_udc.o/
+port/port_ipc.o/
+port/port_net.o/
+port/port_poller.o/
+port/port_proxy.o/
+port/port_rpc.o/
+port/port_smem.o/
+port/port_sysmsg.o/
+port/ccci_swtp.o/
+udc/udc.o/
+mixdev/mix_event.o/
+mt6768/ccci_platform.o/
+mt6768/md_sys1_platform.o/
+
+/0              0           0     0     644     264816    `
+/13             0           0     0     644     268336    `
+/24             0           0     0     644     360456    `
+/38             0           0     0     644     439432    `
+/52             0           0     0     644     235256    `
+/67             0           0     0     644     1008      `
+/81             0           0     0     644     276240    `
+/100            0           0     0     644     351752    `
+/116            0           0     0     644     418440    `
+/138            0           0     0     644     255576    `
+/162            0           0     0     644     250488    `
+/185            0           0     0     644     267184    `
+/205            0           0     0     644     285864    `
+/224            0           0     0     644     224592    `
+/244            0           0     0     644     77560     `
+/266            0           0     0     644     105912    `
+/288            0           0     0     644     85424     `
+/310            0           0     0     644     85344     `
+/332            0           0     0     644     259608    `
+/348            0           0     0     644     520576    `
+/370            0           0     0     644     525664    `
+/393            0           0     0     644     66488     `
+/411            0           0     0     644     251296    `
+/436            0           0     0     644     65640     `
+/456           /0           0     0     644     457752    `
+/477            0           0     0     644     291120    `
+/494            0           0     0     644     252672    `
+/512            0           0     0     644     221608    `
+/532            0           0     0     644     342584    `
+/549            0           0     0     644     281856    `
+/566            0           0     0     644     326048    `
+/583            0           0     0     644     229408    `
+/603            0           0     0     644     515008    `
+/622            0           0     0     644     330280    `
+/639            0           0     0     644     350512    `
+/657            0           0     0     644     254032    `
+/677            0           0     0     644     150752    `
+/695            0           0     0     644     41536     `
+/706            0           0     0     644     303272    `
+/726           /0           0     0     644     235000    `
+/750            0           0     0     644     471656    `

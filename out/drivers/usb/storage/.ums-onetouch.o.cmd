@@ -1,0 +1,1 @@
+cmd_drivers/usb/storage/ums-onetouch.o :=  rm -f drivers/usb/storage/ums-onetouch.o; /home/grahame/toolchains/aarch64-linux-android-4.9-master/bin/aarch64-linux-androidkernel-ar rcSTPD drivers/usb/storage/ums-onetouch.o drivers/usb/storage/onetouch.o 

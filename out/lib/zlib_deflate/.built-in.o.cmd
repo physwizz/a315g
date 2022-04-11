@@ -1,0 +1,1 @@
+cmd_lib/zlib_deflate/built-in.o :=   rm -f lib/zlib_deflate/built-in.o; /home/grahame/toolchains/aarch64-linux-android-4.9-master/bin/aarch64-linux-androidkernel-ar rcSTPD lib/zlib_deflate/built-in.o lib/zlib_deflate/zlib_deflate.o ; scripts/mod/modpost lib/zlib_deflate/built-in.o

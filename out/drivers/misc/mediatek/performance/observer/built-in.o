@@ -1,0 +1,19 @@
+!<thin>
+//                                              152       `
+pob_main.o/
+fpsgo_notify.o/
+qos_notify.o/
+nn_notify.o/
+xpu_notify.o/
+eara_thrm_notify.o/
+platform/mt6768/qos_pfm.o/
+platform/mt6768/obpfm_qos_bound.o/
+
+/0              0           0     0     644     197216    `
+/12             0           0     0     644     9392      `
+/28             0           0     0     644     229000    `
+/42             0           0     0     644     8080      `
+/55             0           0     0     644     11392     `
+/69             0           0     0     644     8112      `
+/89             0           0     0     644     40704     `
+/116            0           0     0     644     192064    `

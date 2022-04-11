@@ -1,0 +1,1 @@
+cmd_sound/core/snd-seq-device.o :=  rm -f sound/core/snd-seq-device.o; /home/grahame/toolchains/aarch64-linux-android-4.9-master/bin/aarch64-linux-androidkernel-ar rcSTPD sound/core/snd-seq-device.o sound/core/seq_device.o 

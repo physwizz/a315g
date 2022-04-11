@@ -1,0 +1,1 @@
+cmd_drivers/power/supply/built-in.o :=   rm -f drivers/power/supply/built-in.o; /home/grahame/toolchains/aarch64-linux-android-4.9-master/bin/aarch64-linux-androidkernel-ar rcSTPD drivers/power/supply/built-in.o drivers/power/supply/power_supply.o drivers/power/supply/mediatek/built-in.o ; scripts/mod/modpost drivers/power/supply/built-in.o

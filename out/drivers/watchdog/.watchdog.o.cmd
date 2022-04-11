@@ -1,0 +1,1 @@
+cmd_drivers/watchdog/watchdog.o :=  rm -f drivers/watchdog/watchdog.o; /home/grahame/toolchains/aarch64-linux-android-4.9-master/bin/aarch64-linux-androidkernel-ar rcSTPD drivers/watchdog/watchdog.o drivers/watchdog/watchdog_core.o drivers/watchdog/watchdog_dev.o 

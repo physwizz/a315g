@@ -1,0 +1,1 @@
+cmd_crypto/crypto_hash.o :=  rm -f crypto/crypto_hash.o; /home/grahame/toolchains/aarch64-linux-android-4.9-master/bin/aarch64-linux-androidkernel-ar rcSTPD crypto/crypto_hash.o crypto/ahash.o crypto/shash.o 

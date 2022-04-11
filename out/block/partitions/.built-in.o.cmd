@@ -1,0 +1,1 @@
+cmd_block/partitions/built-in.o :=   rm -f block/partitions/built-in.o; /home/grahame/toolchains/aarch64-linux-android-4.9-master/bin/aarch64-linux-androidkernel-ar rcSTPD block/partitions/built-in.o block/partitions/check.o block/partitions/msdos.o block/partitions/efi.o ; scripts/mod/modpost block/partitions/built-in.o

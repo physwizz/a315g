@@ -1,0 +1,1 @@
+cmd_drivers/uh/built-in.o :=   rm -f drivers/uh/built-in.o; /home/grahame/toolchains/aarch64-linux-android-4.9-master/bin/aarch64-linux-androidkernel-ar rcSTPD drivers/uh/built-in.o drivers/uh/uh_debug_log.o drivers/uh/rustrkp.o drivers/uh/rustkdp.o ; scripts/mod/modpost drivers/uh/built-in.o

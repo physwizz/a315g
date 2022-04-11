@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/gpu/ged/built-in.o :=   rm -f drivers/misc/mediatek/gpu/ged/built-in.o; /home/grahame/toolchains/aarch64-linux-android-4.9-master/bin/aarch64-linux-androidkernel-ar rcSTPD drivers/misc/mediatek/gpu/ged/built-in.o drivers/misc/mediatek/gpu/ged/ged.o ; scripts/mod/modpost drivers/misc/mediatek/gpu/ged/built-in.o

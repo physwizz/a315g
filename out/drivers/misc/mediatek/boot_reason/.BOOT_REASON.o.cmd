@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/boot_reason/BOOT_REASON.o :=  rm -f drivers/misc/mediatek/boot_reason/BOOT_REASON.o; /home/grahame/toolchains/aarch64-linux-android-4.9-master/bin/aarch64-linux-androidkernel-ar rcSTPD drivers/misc/mediatek/boot_reason/BOOT_REASON.o drivers/misc/mediatek/boot_reason/mtk_boot_reason.o 

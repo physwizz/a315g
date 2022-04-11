@@ -1,0 +1,1 @@
+cmd_drivers/perf/built-in.o :=   rm -f drivers/perf/built-in.o; /home/grahame/toolchains/aarch64-linux-android-4.9-master/bin/aarch64-linux-androidkernel-ar rcSTPD drivers/perf/built-in.o drivers/perf/arm_pmu.o drivers/perf/arm_pmu_platform.o drivers/perf/arm_dsu_pmu.o ; scripts/mod/modpost drivers/perf/built-in.o

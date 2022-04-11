@@ -1,0 +1,1 @@
+cmd_drivers/usb/storage/ums-sddr09.o :=  rm -f drivers/usb/storage/ums-sddr09.o; /home/grahame/toolchains/aarch64-linux-android-4.9-master/bin/aarch64-linux-androidkernel-ar rcSTPD drivers/usb/storage/ums-sddr09.o drivers/usb/storage/sddr09.o 

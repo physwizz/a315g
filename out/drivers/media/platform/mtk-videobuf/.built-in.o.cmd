@@ -1,0 +1,1 @@
+cmd_drivers/media/platform/mtk-videobuf/built-in.o :=   rm -f drivers/media/platform/mtk-videobuf/built-in.o; /home/grahame/toolchains/aarch64-linux-android-4.9-master/bin/aarch64-linux-androidkernel-ar rcSTPD drivers/media/platform/mtk-videobuf/built-in.o drivers/media/platform/mtk-videobuf/mtk-dma-contig.o ; scripts/mod/modpost drivers/media/platform/mtk-videobuf/built-in.o

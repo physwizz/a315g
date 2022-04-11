@@ -1,0 +1,1 @@
+cmd_drivers/nvmem/nvmem_core.o :=  rm -f drivers/nvmem/nvmem_core.o; /home/grahame/toolchains/aarch64-linux-android-4.9-master/bin/aarch64-linux-androidkernel-ar rcSTPD drivers/nvmem/nvmem_core.o drivers/nvmem/core.o 

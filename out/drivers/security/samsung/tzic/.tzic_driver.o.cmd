@@ -1,0 +1,1 @@
+cmd_drivers/security/samsung/tzic/tzic_driver.o :=  rm -f drivers/security/samsung/tzic/tzic_driver.o; /home/grahame/toolchains/aarch64-linux-android-4.9-master/bin/aarch64-linux-androidkernel-ar rcSTPD drivers/security/samsung/tzic/tzic_driver.o drivers/security/samsung/tzic/tzic64.o drivers/security/samsung/tzic/tzic_mtk_atf.o 

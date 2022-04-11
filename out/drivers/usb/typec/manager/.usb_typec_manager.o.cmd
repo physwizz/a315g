@@ -1,0 +1,1 @@
+cmd_drivers/usb/typec/manager/usb_typec_manager.o :=  rm -f drivers/usb/typec/manager/usb_typec_manager.o; /home/grahame/toolchains/aarch64-linux-android-4.9-master/bin/aarch64-linux-androidkernel-ar rcSTPD drivers/usb/typec/manager/usb_typec_manager.o drivers/usb/typec/manager/usb_typec_manager_notifier.o 

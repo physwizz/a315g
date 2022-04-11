@@ -1,0 +1,1 @@
+cmd_fs/isofs/built-in.o :=   rm -f fs/isofs/built-in.o; /home/grahame/toolchains/aarch64-linux-android-4.9-master/bin/aarch64-linux-androidkernel-ar rcSTPD fs/isofs/built-in.o fs/isofs/isofs.o ; scripts/mod/modpost fs/isofs/built-in.o

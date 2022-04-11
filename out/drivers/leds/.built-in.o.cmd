@@ -1,0 +1,1 @@
+cmd_drivers/leds/built-in.o :=   rm -f drivers/leds/built-in.o; /home/grahame/toolchains/aarch64-linux-android-4.9-master/bin/aarch64-linux-androidkernel-ar rcSTPD drivers/leds/built-in.o drivers/leds/led-core.o drivers/leds/led-class.o drivers/leds/led-triggers.o drivers/leds/leds-s2mu106.o drivers/leds/trigger/built-in.o ; scripts/mod/modpost drivers/leds/built-in.o

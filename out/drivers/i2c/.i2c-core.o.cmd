@@ -1,0 +1,1 @@
+cmd_drivers/i2c/i2c-core.o :=  rm -f drivers/i2c/i2c-core.o; /home/grahame/toolchains/aarch64-linux-android-4.9-master/bin/aarch64-linux-androidkernel-ar rcSTPD drivers/i2c/i2c-core.o drivers/i2c/i2c-core-base.o drivers/i2c/i2c-core-smbus.o drivers/i2c/i2c-core-of.o 

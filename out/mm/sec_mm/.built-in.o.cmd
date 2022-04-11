@@ -1,0 +1,1 @@
+cmd_mm/sec_mm/built-in.o :=   rm -f mm/sec_mm/built-in.o; /home/grahame/toolchains/aarch64-linux-android-4.9-master/bin/aarch64-linux-androidkernel-ar rcSTPD mm/sec_mm/built-in.o mm/sec_mm/sec_mm.o ; scripts/mod/modpost mm/sec_mm/built-in.o

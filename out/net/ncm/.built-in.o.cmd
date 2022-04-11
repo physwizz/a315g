@@ -1,0 +1,1 @@
+cmd_net/ncm/built-in.o :=   rm -f net/ncm/built-in.o; /home/grahame/toolchains/aarch64-linux-android-4.9-master/bin/aarch64-linux-androidkernel-ar rcSTPD net/ncm/built-in.o net/ncm/ncm.o ; scripts/mod/modpost net/ncm/built-in.o

@@ -1,0 +1,1 @@
+cmd_drivers/input/touchscreen/built-in.o :=   rm -f drivers/input/touchscreen/built-in.o; /home/grahame/toolchains/aarch64-linux-android-4.9-master/bin/aarch64-linux-androidkernel-ar rcSTPD drivers/input/touchscreen/built-in.o drivers/input/touchscreen/of_touchscreen.o drivers/input/touchscreen/imagis/ist4050/built-in.o ; scripts/mod/modpost drivers/input/touchscreen/built-in.o

@@ -1,0 +1,1 @@
+cmd_drivers/android/built-in.o :=   rm -f drivers/android/built-in.o; /home/grahame/toolchains/aarch64-linux-android-4.9-master/bin/aarch64-linux-androidkernel-ar rcSTPD drivers/android/built-in.o drivers/android/binderfs.o drivers/android/binder.o drivers/android/binder_alloc.o ; scripts/mod/modpost drivers/android/built-in.o

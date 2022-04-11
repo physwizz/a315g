@@ -1,0 +1,1 @@
+cmd_drivers/mfd/built-in.o :=   rm -f drivers/mfd/built-in.o; /home/grahame/toolchains/aarch64-linux-android-4.9-master/bin/aarch64-linux-androidkernel-ar rcSTPD drivers/mfd/built-in.o drivers/mfd/mfd-core.o drivers/mfd/syscon.o drivers/mfd/mt6358-core.o drivers/mfd/mt635x-ot-debug.o drivers/mfd/mt6358-misc.o ; scripts/mod/modpost drivers/mfd/built-in.o

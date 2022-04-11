@@ -1,0 +1,1 @@
+cmd_fs/crypto/built-in.o :=   rm -f fs/crypto/built-in.o; /home/grahame/toolchains/aarch64-linux-android-4.9-master/bin/aarch64-linux-androidkernel-ar rcSTPD fs/crypto/built-in.o fs/crypto/fscrypto.o ; scripts/mod/modpost fs/crypto/built-in.o

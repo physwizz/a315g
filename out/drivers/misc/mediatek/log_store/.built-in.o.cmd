@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/log_store/built-in.o :=   rm -f drivers/misc/mediatek/log_store/built-in.o; /home/grahame/toolchains/aarch64-linux-android-4.9-master/bin/aarch64-linux-androidkernel-ar rcSTPD drivers/misc/mediatek/log_store/built-in.o drivers/misc/mediatek/log_store/log_store.o ; scripts/mod/modpost drivers/misc/mediatek/log_store/built-in.o

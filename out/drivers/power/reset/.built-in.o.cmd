@@ -1,0 +1,1 @@
+cmd_drivers/power/reset/built-in.o :=  rm -f drivers/power/reset/built-in.o; /home/grahame/toolchains/aarch64-linux-android-4.9-master/bin/aarch64-linux-androidkernel-ar rcSTPD drivers/power/reset/built-in.o

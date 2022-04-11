@@ -1,0 +1,14 @@
+!<thin>
+//                                              142       `
+pwm10/ddp_pwm.o/
+corr10/ddp_dither.o/
+corr10/ddp_gamma.o/
+color20/ddp_color.o/
+aal30/ddp_aal.o/
+layering_rule_base/v1.1/layering_rule_base.o/
+/0              0           0     0     644     304640    `
+/17             0           0     0     644     411424    `
+/38             0           0     0     644     417976    `
+/58             0           0     0     644     388720    `
+/79             0           0     0     644     461720    `
+/96             0           0     0     644     318272    `

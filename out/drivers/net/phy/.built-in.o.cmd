@@ -1,0 +1,1 @@
+cmd_drivers/net/phy/built-in.o :=   rm -f drivers/net/phy/built-in.o; /home/grahame/toolchains/aarch64-linux-android-4.9-master/bin/aarch64-linux-androidkernel-ar rcSTPD drivers/net/phy/built-in.o drivers/net/phy/mdio-boardinfo.o drivers/net/phy/libphy.o drivers/net/phy/fixed_phy.o ; scripts/mod/modpost drivers/net/phy/built-in.o

@@ -1,0 +1,1 @@
+cmd_sound/core/snd-hrtimer.o :=  rm -f sound/core/snd-hrtimer.o; /home/grahame/toolchains/aarch64-linux-android-4.9-master/bin/aarch64-linux-androidkernel-ar rcSTPD sound/core/snd-hrtimer.o sound/core/hrtimer.o 

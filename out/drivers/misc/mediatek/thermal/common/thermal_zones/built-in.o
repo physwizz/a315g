@@ -1,0 +1,20 @@
+!<thin>
+//                                              142       `
+mtk_ts_bts.o/
+mtk_ts_btsmdpa.o/
+mtk_ts_cpu_noBank.o/
+mtk_ts_pa.o/
+mtk_ts_pa_thput.o/
+mtk_ts_wmt.o/
+mtk_tsAll.o/
+mtk_ts_dctm.o/
+mtk_ts_pmic.o/
+/0              0           0     0     644     254352    `
+/14             0           0     0     644     255568    `
+/32             0           0     0     644     290120    `
+/53             0           0     0     644     311864    `
+/66             0           0     0     644     232600    `
+/85             0           0     0     644     428880    `
+/99             0           0     0     644     297960    `
+/112            0           0     0     644     295944    `
+/127            0           0     0     644     202960    `

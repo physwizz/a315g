@@ -1,0 +1,1 @@
+cmd_drivers/usb/common/usb-common.o :=  rm -f drivers/usb/common/usb-common.o; /home/grahame/toolchains/aarch64-linux-android-4.9-master/bin/aarch64-linux-androidkernel-ar rcSTPD drivers/usb/common/usb-common.o drivers/usb/common/common.o 

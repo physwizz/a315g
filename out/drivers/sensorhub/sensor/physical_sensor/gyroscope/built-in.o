@@ -1,0 +1,9 @@
+!<thin>
+//                                              68        `
+gyroscope_icm42605m.o/
+gyroscope_lsm6dsl.o/
+gyroscope_lsm6dsotr.o/
+
+/0              0           0     0     644     118592    `
+/23             0           0     0     644     118576    `
+/44             0           0     0     644     118592    `

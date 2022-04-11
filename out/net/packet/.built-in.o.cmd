@@ -1,0 +1,1 @@
+cmd_net/packet/built-in.o :=   rm -f net/packet/built-in.o; /home/grahame/toolchains/aarch64-linux-android-4.9-master/bin/aarch64-linux-androidkernel-ar rcSTPD net/packet/built-in.o net/packet/af_packet.o ; scripts/mod/modpost net/packet/built-in.o

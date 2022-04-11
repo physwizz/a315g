@@ -1,0 +1,1 @@
+cmd_drivers/usb/typec/common/built-in.o :=   rm -f drivers/usb/typec/common/built-in.o; /home/grahame/toolchains/aarch64-linux-android-4.9-master/bin/aarch64-linux-androidkernel-ar rcSTPD drivers/usb/typec/common/built-in.o drivers/usb/typec/common/pdic_notifier_module.o ; scripts/mod/modpost drivers/usb/typec/common/built-in.o

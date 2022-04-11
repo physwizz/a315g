@@ -1,0 +1,1 @@
+cmd_fs/sdcardfs/built-in.o :=   rm -f fs/sdcardfs/built-in.o; /home/grahame/toolchains/aarch64-linux-android-4.9-master/bin/aarch64-linux-androidkernel-ar rcSTPD fs/sdcardfs/built-in.o fs/sdcardfs/sdcardfs.o ; scripts/mod/modpost fs/sdcardfs/built-in.o

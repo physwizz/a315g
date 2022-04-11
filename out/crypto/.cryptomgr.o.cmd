@@ -1,0 +1,1 @@
+cmd_crypto/cryptomgr.o :=  rm -f crypto/cryptomgr.o; /home/grahame/toolchains/aarch64-linux-android-4.9-master/bin/aarch64-linux-androidkernel-ar rcSTPD crypto/cryptomgr.o crypto/algboss.o crypto/testmgr.o 

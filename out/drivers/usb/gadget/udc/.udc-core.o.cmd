@@ -1,0 +1,1 @@
+cmd_drivers/usb/gadget/udc/udc-core.o :=  rm -f drivers/usb/gadget/udc/udc-core.o; /home/grahame/toolchains/aarch64-linux-android-4.9-master/bin/aarch64-linux-androidkernel-ar rcSTPD drivers/usb/gadget/udc/udc-core.o drivers/usb/gadget/udc/core.o drivers/usb/gadget/udc/trace.o 

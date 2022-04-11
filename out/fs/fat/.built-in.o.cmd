@@ -1,0 +1,1 @@
+cmd_fs/fat/built-in.o :=   rm -f fs/fat/built-in.o; /home/grahame/toolchains/aarch64-linux-android-4.9-master/bin/aarch64-linux-androidkernel-ar rcSTPD fs/fat/built-in.o fs/fat/fat.o fs/fat/vfat.o fs/fat/msdos.o ; scripts/mod/modpost fs/fat/built-in.o

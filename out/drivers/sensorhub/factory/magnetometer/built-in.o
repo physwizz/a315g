@@ -1,0 +1,10 @@
+!<thin>
+//                                              120       `
+magnetometer_factory.o/
+magnetometer_ak09918c_factory.o/
+magnetometer_mmc5633_factory.o/
+magnetometer_yas539_factory.o/
+/0              0           0     0     644     144216    `
+/24             0           0     0     644     141048    `
+/57             0           0     0     644     144000    `
+/89             0           0     0     644     138480    `

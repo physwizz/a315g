@@ -1,0 +1,1 @@
+cmd_net/netlink/built-in.o :=   rm -f net/netlink/built-in.o; /home/grahame/toolchains/aarch64-linux-android-4.9-master/bin/aarch64-linux-androidkernel-ar rcSTPD net/netlink/built-in.o net/netlink/af_netlink.o net/netlink/genetlink.o ; scripts/mod/modpost net/netlink/built-in.o

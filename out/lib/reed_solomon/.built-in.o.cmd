@@ -1,0 +1,1 @@
+cmd_lib/reed_solomon/built-in.o :=   rm -f lib/reed_solomon/built-in.o; /home/grahame/toolchains/aarch64-linux-android-4.9-master/bin/aarch64-linux-androidkernel-ar rcSTPD lib/reed_solomon/built-in.o lib/reed_solomon/reed_solomon.o ; scripts/mod/modpost lib/reed_solomon/built-in.o

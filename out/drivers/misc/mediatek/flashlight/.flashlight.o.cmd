@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/flashlight/flashlight.o :=  rm -f drivers/misc/mediatek/flashlight/flashlight.o; /home/grahame/toolchains/aarch64-linux-android-4.9-master/bin/aarch64-linux-androidkernel-ar rcSTPD drivers/misc/mediatek/flashlight/flashlight.o drivers/misc/mediatek/flashlight/flashlight-core.o drivers/misc/mediatek/flashlight/flashlight-device.o 

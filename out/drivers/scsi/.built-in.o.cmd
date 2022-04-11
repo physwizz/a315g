@@ -1,0 +1,1 @@
+cmd_drivers/scsi/built-in.o :=   rm -f drivers/scsi/built-in.o; /home/grahame/toolchains/aarch64-linux-android-4.9-master/bin/aarch64-linux-androidkernel-ar rcSTPD drivers/scsi/built-in.o drivers/scsi/scsi_mod.o drivers/scsi/sd_mod.o ; scripts/mod/modpost drivers/scsi/built-in.o

@@ -1,0 +1,21 @@
+!<thin>
+//                                              150       `
+sec_battery.o/
+sec_battery_vote.o/
+sec_battery_thermal.o/
+sec_battery_sysfs.o/
+sec_battery_dt.o/
+sec_battery_ttf.o/
+sec_adc.o/
+sec_cisd.o/
+sec_pd.o/
+
+/0              0           0     0     644     674904    `
+/15             0           0     0     644     126232    `
+/35             0           0     0     644     220768    `
+/58             0           0     0     644     381552    `
+/79             0           0     0     644     351024    `
+/97             0           0     0     644     200544    `
+/116            0           0     0     644     197192    `
+/127            0           0     0     644     237448    `
+/139            0           0     0     644     10232     `

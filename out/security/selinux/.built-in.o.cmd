@@ -1,0 +1,1 @@
+cmd_security/selinux/built-in.o :=   rm -f security/selinux/built-in.o; /home/grahame/toolchains/aarch64-linux-android-4.9-master/bin/aarch64-linux-androidkernel-ar rcSTPD security/selinux/built-in.o security/selinux/selinux.o ; scripts/mod/modpost security/selinux/built-in.o

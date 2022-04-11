@@ -1,0 +1,1 @@
+cmd_drivers/sti/abc/abc.o :=  rm -f drivers/sti/abc/abc.o; /home/grahame/toolchains/aarch64-linux-android-4.9-master/bin/aarch64-linux-androidkernel-ar rcSTPD drivers/sti/abc/abc.o drivers/sti/abc/abc_common.o 

@@ -1,0 +1,1 @@
+cmd_drivers/mmc/host/built-in.o :=   rm -f drivers/mmc/host/built-in.o; /home/grahame/toolchains/aarch64-linux-android-4.9-master/bin/aarch64-linux-androidkernel-ar rcSTPD drivers/mmc/host/built-in.o drivers/mmc/host/mediatek/built-in.o drivers/mmc/host/cmdq_hci.o drivers/mmc/host/cqhci-crypto.o ; scripts/mod/modpost drivers/mmc/host/built-in.o

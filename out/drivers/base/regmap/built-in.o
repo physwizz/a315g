@@ -1,0 +1,17 @@
+!<thin>
+//                                              102       `
+regmap.o/
+regcache.o/
+regcache-rbtree.o/
+regcache-flat.o/
+regmap-i2c.o/
+regmap-spi.o/
+regmap-mmio.o/
+
+/0              0           0     0     644     556512    `
+/10             0           0     0     644     194216    `
+/22             0           0     0     644     143176    `
+/41            /0           0     0     644     120792    `
+/58             0           0     0     644     157656    `
+/72             0           0     0     644     157328    `
+/86             0           0     0     644     149240    `

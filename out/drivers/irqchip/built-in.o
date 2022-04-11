@@ -1,0 +1,14 @@
+!<thin>
+//                                              96        `
+irqchip.o/
+irq-gic.o/
+irq-gic-common.o/
+irq-gic-v3.o/
+irq-partition-percpu.o/
+irq-mtk-sysirq.o/
+/0              0           0     0     644     3944      `
+/11             0           0     0     644     256208    `
+/22             0           0     0     644     16008     `
+/40             0           0     0     644     262008    `
+/54             0           0     0     644     153176    `
+/78             0           0     0     644     146752    `

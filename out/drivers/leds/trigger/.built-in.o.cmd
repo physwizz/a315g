@@ -1,0 +1,1 @@
+cmd_drivers/leds/trigger/built-in.o :=   rm -f drivers/leds/trigger/built-in.o; /home/grahame/toolchains/aarch64-linux-android-4.9-master/bin/aarch64-linux-androidkernel-ar rcSTPD drivers/leds/trigger/built-in.o drivers/leds/trigger/ledtrig-timer.o ; scripts/mod/modpost drivers/leds/trigger/built-in.o

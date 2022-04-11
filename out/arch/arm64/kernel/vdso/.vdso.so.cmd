@@ -1,0 +1,1 @@
+cmd_arch/arm64/kernel/vdso/vdso.so := /home/grahame/toolchains/aarch64-linux-android-4.9-master/bin/aarch64-linux-androidkernel-objcopy -S  arch/arm64/kernel/vdso/vdso.so.dbg arch/arm64/kernel/vdso/vdso.so

@@ -1,0 +1,15 @@
+!<thin>
+//                                              132       `
+src/mtk_tc.o/
+src/mtk_pmic_efuse.o/
+src/mtk_ts_6358buck1.o/
+src/mtk_ts_6358buck2.o/
+src/mtk_ts_6358buck3.o/
+src/mtk_thermal_ipi.o/
+
+/0              0           0     0     644     235928    `
+/14             0           0     0     644     338144    `
+/36             0           0     0     644     188008    `
+/60             0           0     0     644     188008    `
+/84             0           0     0     644     188008    `
+/108            0           0     0     644     1008      `

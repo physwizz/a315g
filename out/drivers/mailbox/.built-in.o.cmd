@@ -1,0 +1,1 @@
+cmd_drivers/mailbox/built-in.o :=   rm -f drivers/mailbox/built-in.o; /home/grahame/toolchains/aarch64-linux-android-4.9-master/bin/aarch64-linux-androidkernel-ar rcSTPD drivers/mailbox/built-in.o drivers/mailbox/mailbox.o drivers/mailbox/mtk-cmdq-mailbox.o ; scripts/mod/modpost drivers/mailbox/built-in.o

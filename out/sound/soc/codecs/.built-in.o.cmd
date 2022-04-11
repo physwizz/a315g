@@ -1,0 +1,1 @@
+cmd_sound/soc/codecs/built-in.o :=   rm -f sound/soc/codecs/built-in.o; /home/grahame/toolchains/aarch64-linux-android-4.9-master/bin/aarch64-linux-androidkernel-ar rcSTPD sound/soc/codecs/built-in.o sound/soc/codecs/snd-soc-mt6358.o sound/soc/codecs/snd-soc-sma1303.o ; scripts/mod/modpost sound/soc/codecs/built-in.o

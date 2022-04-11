@@ -1,0 +1,1 @@
+cmd_drivers/net/phy/libphy.o :=  rm -f drivers/net/phy/libphy.o; /home/grahame/toolchains/aarch64-linux-android-4.9-master/bin/aarch64-linux-androidkernel-ar rcSTPD drivers/net/phy/libphy.o drivers/net/phy/phy.o drivers/net/phy/phy-c45.o drivers/net/phy/phy-core.o drivers/net/phy/phy_device.o drivers/net/phy/mdio_bus.o drivers/net/phy/mdio_device.o drivers/net/phy/swphy.o 

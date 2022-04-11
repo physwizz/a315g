@@ -1,0 +1,1 @@
+cmd_drivers/mmc/core/mmc_block.o :=  rm -f drivers/mmc/core/mmc_block.o; /home/grahame/toolchains/aarch64-linux-android-4.9-master/bin/aarch64-linux-androidkernel-ar rcSTPD drivers/mmc/core/mmc_block.o drivers/mmc/core/block.o drivers/mmc/core/queue.o 

@@ -1,0 +1,1 @@
+cmd_arch/arm64/net/built-in.o :=   rm -f arch/arm64/net/built-in.o; /home/grahame/toolchains/aarch64-linux-android-4.9-master/bin/aarch64-linux-androidkernel-ar rcSTPD arch/arm64/net/built-in.o arch/arm64/net/bpf_jit_comp.o ; scripts/mod/modpost arch/arm64/net/built-in.o

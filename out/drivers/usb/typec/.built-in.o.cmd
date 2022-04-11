@@ -1,0 +1,1 @@
+cmd_drivers/usb/typec/built-in.o :=   rm -f drivers/usb/typec/built-in.o; /home/grahame/toolchains/aarch64-linux-android-4.9-master/bin/aarch64-linux-androidkernel-ar rcSTPD drivers/usb/typec/built-in.o drivers/usb/typec/typec.o ; scripts/mod/modpost drivers/usb/typec/built-in.o

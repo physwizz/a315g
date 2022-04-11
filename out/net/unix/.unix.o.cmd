@@ -1,0 +1,1 @@
+cmd_net/unix/unix.o :=  rm -f net/unix/unix.o; /home/grahame/toolchains/aarch64-linux-android-4.9-master/bin/aarch64-linux-androidkernel-ar rcSTPD net/unix/unix.o net/unix/af_unix.o net/unix/garbage.o net/unix/sysctl_net_unix.o 

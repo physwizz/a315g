@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/cmdq/v3/mt6768/built-in.o :=   rm -f drivers/misc/mediatek/cmdq/v3/mt6768/built-in.o; /home/grahame/toolchains/aarch64-linux-android-4.9-master/bin/aarch64-linux-androidkernel-ar rcSTPD drivers/misc/mediatek/cmdq/v3/mt6768/built-in.o drivers/misc/mediatek/cmdq/v3/mt6768/cmdq_mdp.o ; scripts/mod/modpost drivers/misc/mediatek/cmdq/v3/mt6768/built-in.o

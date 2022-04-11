@@ -1,0 +1,20 @@
+!<thin>
+//                                              140       `
+sspm_helper.o/
+sspm_irq.o/
+sspm_sysfs.o/
+sspm_reservedmem.o/
+sspm_plt.o/
+sspm_mbox.o/
+sspm_ipi_mbox.o/
+sspm_logger_impl.o/
+sspm_timesync.o/
+/0              0           0     0     644     183400    `
+/15             0           0     0     644     2640      `
+/27             0           0     0     644     132664    `
+/41             0           0     0     644     170040    `
+/61             0           0     0     644     162560    `
+/73             0           0     0     644     138920    `
+/86            /0           0     0     644     174744    `
+/103            0           0     0     644     170856    `
+/123           /0           0     0     644     174552    `

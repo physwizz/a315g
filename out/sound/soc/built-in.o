@@ -1,0 +1,64 @@
+!<thin>
+//                                              840       `
+soc-core.o/
+soc-dapm.o/
+soc-jack.o/
+soc-cache.o/
+soc-utils.o/
+soc-pcm.o/
+soc-io.o/
+soc-devres.o/
+soc-ops.o/
+codecs/mt6358.o/
+codecs/sma1303.o/
+mediatek/common/mtk-afe-platform-driver.o/
+mediatek/common/mtk-afe-fe-dai.o/
+mediatek/common/mtk-mmap-ion.o/
+mediatek/common/mtk-sram-manager.o/
+mediatek/common/mtk-sp-pcm-ops.o/
+mediatek/common/mtk-afe-debug.o/
+mediatek/common/mtk-sp-spk-amp.o/
+mediatek/common/mtk-usip.o/
+mediatek/common/mtk-btcvsd.o/
+mediatek/mt6768/mt6768-afe-pcm.o/
+mediatek/mt6768/mt6768-afe-clk.o/
+mediatek/mt6768/mt6768-afe-gpio.o/
+mediatek/mt6768/mt6768-dai-adda.o/
+mediatek/mt6768/mt6768-afe-control.o/
+mediatek/mt6768/mt6768-dai-i2s.o/
+mediatek/mt6768/mt6768-dai-hw-gain.o/
+mediatek/mt6768/mt6768-dai-pcm.o/
+mediatek/mt6768/mt6768-dai-hostless.o/
+mediatek/mt6768/mt6768-misc-control.o/
+mediatek/mt6768/mt6768-mt6358.o/
+/0              0           0     0     644     687952    `
+/12             0           0     0     644     482416    `
+/24             0           0     0     644     257872    `
+/36             0           0     0     644     178024    `
+/49             0           0     0     644     221232    `
+/62             0           0     0     644     383368    `
+/73             0           0     0     644     201848    `
+/83             0           0     0     644     193288    `
+/97             0           0     0     644     248176    `
+/108            0           0     0     644     610392    `
+/125            0           0     0     644     448032    `
+/143            0           0     0     644     216160    `
+/186            0           0     0     644     260992    `
+/220            0           0     0     644     147480    `
+/252            0           0     0     644     149024    `
+/288            0           0     0     644     148720    `
+/322           /0           0     0     644     200368    `
+/355            0           0     0     644     229256    `
+/389            0           0     0     644     149224    `
+/417            0           0     0     644     308496    `
+/447            0           0     0     644     359088    `
+/481            0           0     0     644     236352    `
+/515            0           0     0     644     193864    `
+/550            0           0     0     644     229648    `
+/585            0           0     0     644     206072    `
+/623            0           0     0     644     281864    `
+/657            0           0     0     644     199448    `
+/695            0           0     0     644     196304    `
+/729            0           0     0     644     195192    `
+/768            0           0     0     644     324728    `
+/807           /0           0     0     644     232928    `

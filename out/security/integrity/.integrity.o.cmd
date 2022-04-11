@@ -1,0 +1,1 @@
+cmd_security/integrity/integrity.o :=  rm -f security/integrity/integrity.o; /home/grahame/toolchains/aarch64-linux-android-4.9-master/bin/aarch64-linux-androidkernel-ar rcSTPD security/integrity/integrity.o security/integrity/iint.o security/integrity/integrity_audit.o security/integrity/digsig.o security/integrity/digsig_asymmetric.o 

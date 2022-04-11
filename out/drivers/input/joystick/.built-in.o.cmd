@@ -1,0 +1,1 @@
+cmd_drivers/input/joystick/built-in.o :=   rm -f drivers/input/joystick/built-in.o; /home/grahame/toolchains/aarch64-linux-android-4.9-master/bin/aarch64-linux-androidkernel-ar rcSTPD drivers/input/joystick/built-in.o drivers/input/joystick/xpad.o ; scripts/mod/modpost drivers/input/joystick/built-in.o

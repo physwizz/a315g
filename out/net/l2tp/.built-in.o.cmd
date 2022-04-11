@@ -1,0 +1,1 @@
+cmd_net/l2tp/built-in.o :=   rm -f net/l2tp/built-in.o; /home/grahame/toolchains/aarch64-linux-android-4.9-master/bin/aarch64-linux-androidkernel-ar rcSTPD net/l2tp/built-in.o net/l2tp/l2tp_core.o net/l2tp/l2tp_ppp.o ; scripts/mod/modpost net/l2tp/built-in.o

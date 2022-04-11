@@ -1,0 +1,1 @@
+cmd_drivers/mmc/built-in.o :=   rm -f drivers/mmc/built-in.o; /home/grahame/toolchains/aarch64-linux-android-4.9-master/bin/aarch64-linux-androidkernel-ar rcSTPD drivers/mmc/built-in.o drivers/mmc/core/built-in.o drivers/mmc/host/built-in.o ; scripts/mod/modpost drivers/mmc/built-in.o

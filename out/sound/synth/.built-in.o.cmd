@@ -1,0 +1,1 @@
+cmd_sound/synth/built-in.o :=   rm -f sound/synth/built-in.o; /home/grahame/toolchains/aarch64-linux-android-4.9-master/bin/aarch64-linux-androidkernel-ar rcSTPD sound/synth/built-in.o sound/synth/emux/built-in.o ; scripts/mod/modpost sound/synth/built-in.o

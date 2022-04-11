@@ -1,0 +1,11 @@
+!<thin>
+//                                              78        `
+shub_debug.o/
+shub_debug_sysfs.o/
+shub_sensor_dump.o/
+shub_system_checker.o/
+
+/0              0           0     0     644     143288    `
+/14             0           0     0     644     180280    `
+/34             0           0     0     644     18504     `
+/54             0           0     0     644     41544     `

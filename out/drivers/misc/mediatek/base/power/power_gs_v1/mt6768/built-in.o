@@ -1,0 +1,15 @@
+!<thin>
+//                                              130       `
+mtk_power_gs_6358_array.o/
+mtk_cg_array.o/
+mtk_dcm_array.o/
+mtk_power_gs_sp.o/
+mtk_power_gs_compare.o/
+mtk_power_gs_dump_pmic.o/
+
+/0              0           0     0     644     8936      `
+/27             0           0     0     644     5464      `
+/43            /0           0     0     644     5584      `
+/60             0           0     0     644     2592      `
+/79             0           0     0     644     14288     `
+/103            0           0     0     644     127168    `

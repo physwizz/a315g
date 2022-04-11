@@ -1,0 +1,1 @@
+cmd_drivers/spi/built-in.o :=   rm -f drivers/spi/built-in.o; /home/grahame/toolchains/aarch64-linux-android-4.9-master/bin/aarch64-linux-androidkernel-ar rcSTPD drivers/spi/built-in.o drivers/spi/spi.o drivers/spi/spi-mt65xx.o drivers/spi/spi-mt65xx-dev.o ; scripts/mod/modpost drivers/spi/built-in.o

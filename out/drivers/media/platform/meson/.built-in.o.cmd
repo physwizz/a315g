@@ -1,0 +1,1 @@
+cmd_drivers/media/platform/meson/built-in.o :=  rm -f drivers/media/platform/meson/built-in.o; /home/grahame/toolchains/aarch64-linux-android-4.9-master/bin/aarch64-linux-androidkernel-ar rcSTPD drivers/media/platform/meson/built-in.o

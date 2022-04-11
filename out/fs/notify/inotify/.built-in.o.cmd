@@ -1,0 +1,1 @@
+cmd_fs/notify/inotify/built-in.o :=   rm -f fs/notify/inotify/built-in.o; /home/grahame/toolchains/aarch64-linux-android-4.9-master/bin/aarch64-linux-androidkernel-ar rcSTPD fs/notify/inotify/built-in.o fs/notify/inotify/inotify_fsnotify.o fs/notify/inotify/inotify_user.o ; scripts/mod/modpost fs/notify/inotify/built-in.o

@@ -1,0 +1,1 @@
+cmd_drivers/hid/usbhid/usbhid.o :=  rm -f drivers/hid/usbhid/usbhid.o; /home/grahame/toolchains/aarch64-linux-android-4.9-master/bin/aarch64-linux-androidkernel-ar rcSTPD drivers/hid/usbhid/usbhid.o drivers/hid/usbhid/hid-core.o drivers/hid/usbhid/hid-quirks.o drivers/hid/usbhid/hiddev.o 

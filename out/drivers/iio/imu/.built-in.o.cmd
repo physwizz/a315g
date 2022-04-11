@@ -1,0 +1,1 @@
+cmd_drivers/iio/imu/built-in.o :=   rm -f drivers/iio/imu/built-in.o; /home/grahame/toolchains/aarch64-linux-android-4.9-master/bin/aarch64-linux-androidkernel-ar rcSTPD drivers/iio/imu/built-in.o drivers/iio/imu/bmi160/built-in.o drivers/iio/imu/inv_mpu6050/built-in.o drivers/iio/imu/st_lsm6dsx/built-in.o ; scripts/mod/modpost drivers/iio/imu/built-in.o

@@ -1,0 +1,1 @@
+cmd_net/wireless/built-in.o :=   rm -f net/wireless/built-in.o; /home/grahame/toolchains/aarch64-linux-android-4.9-master/bin/aarch64-linux-androidkernel-ar rcSTPD net/wireless/built-in.o net/wireless/cfg80211.o net/wireless/wext-core.o net/wireless/wext-proc.o net/wireless/wext-priv.o ; scripts/mod/modpost net/wireless/built-in.o

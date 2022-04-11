@@ -1,0 +1,1 @@
+cmd_drivers/switch/built-in.o :=   rm -f drivers/switch/built-in.o; /home/grahame/toolchains/aarch64-linux-android-4.9-master/bin/aarch64-linux-androidkernel-ar rcSTPD drivers/switch/built-in.o drivers/switch/switch_class.o ; scripts/mod/modpost drivers/switch/built-in.o

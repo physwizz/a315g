@@ -1,0 +1,1 @@
+cmd_drivers/hid/hid-logitech.o :=  rm -f drivers/hid/hid-logitech.o; /home/grahame/toolchains/aarch64-linux-android-4.9-master/bin/aarch64-linux-androidkernel-ar rcSTPD drivers/hid/hid-logitech.o drivers/hid/hid-lg.o drivers/hid/hid-lgff.o drivers/hid/hid-lg2ff.o drivers/hid/hid-lg3ff.o drivers/hid/hid-lg4ff.o 

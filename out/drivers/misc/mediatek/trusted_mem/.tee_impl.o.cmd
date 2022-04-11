@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/trusted_mem/tee_impl.o :=  rm -f drivers/misc/mediatek/trusted_mem/tee_impl.o; /home/grahame/toolchains/aarch64-linux-android-4.9-master/bin/aarch64-linux-androidkernel-ar rcSTPD drivers/misc/mediatek/trusted_mem/tee_impl.o drivers/misc/mediatek/trusted_mem/tee_impl/tee_invoke.o drivers/misc/mediatek/trusted_mem/tee_impl/tee_ops.o 

@@ -1,0 +1,1 @@
+cmd_lib/lz4/built-in.o :=   rm -f lib/lz4/built-in.o; /home/grahame/toolchains/aarch64-linux-android-4.9-master/bin/aarch64-linux-androidkernel-ar rcSTPD lib/lz4/built-in.o lib/lz4/lz4_compress.o lib/lz4/lz4_decompress.o ; scripts/mod/modpost lib/lz4/built-in.o

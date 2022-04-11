@@ -1,0 +1,1 @@
+cmd_drivers/watchdog/mediatek/wdt/built-in.o :=   rm -f drivers/watchdog/mediatek/wdt/built-in.o; /home/grahame/toolchains/aarch64-linux-android-4.9-master/bin/aarch64-linux-androidkernel-ar rcSTPD drivers/watchdog/mediatek/wdt/built-in.o drivers/watchdog/mediatek/wdt/common/built-in.o ; scripts/mod/modpost drivers/watchdog/mediatek/wdt/built-in.o

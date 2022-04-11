@@ -1,0 +1,1 @@
+cmd_drivers/dax/built-in.o :=   rm -f drivers/dax/built-in.o; /home/grahame/toolchains/aarch64-linux-android-4.9-master/bin/aarch64-linux-androidkernel-ar rcSTPD drivers/dax/built-in.o drivers/dax/dax.o ; scripts/mod/modpost drivers/dax/built-in.o

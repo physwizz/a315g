@@ -1,0 +1,24 @@
+!<thin>
+//                                              384       `
+camera_hw/regulator/regulator.o/
+camera_hw/gpio/gpio.o/
+camera_hw/gpio_exp/gpio_exp.o/
+camera_hw/mclk/mclk.o/
+camera_hw/imgsensor_cfg_table.o/
+s5kgm2_mipi_raw/s5kgm2mipiraw_Sensor.o/
+hi2021q_mipi_raw/hi2021qmipiraw_Sensor.o/
+s5k4hayx_mipi_raw/s5k4hayxotp.o/
+s5k4hayx_mipi_raw/s5k4hayxmipiraw_Sensor.o/
+gc5035_mipi_raw/gc5035mipiraw_Sensor.o/
+gc5035b_mipi_raw/gc5035bmipiraw_Sensor.o/
+/0              0           0     0     644     179552    `
+/33             0           0     0     644     146464    `
+/56             0           0     0     644     142480    `
+/87             0           0     0     644     148328    `
+/110            0           0     0     644     12128     `
+/143            0           0     0     644     207720    `
+/183            0           0     0     644     181896    `
+/225            0           0     0     644     24816     `
+/258            0           0     0     644     121208    `
+/302            0           0     0     644     328888    `
+/342            0           0     0     644     328984    `

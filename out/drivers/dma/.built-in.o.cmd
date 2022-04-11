@@ -1,0 +1,1 @@
+cmd_drivers/dma/built-in.o :=   rm -f drivers/dma/built-in.o; /home/grahame/toolchains/aarch64-linux-android-4.9-master/bin/aarch64-linux-androidkernel-ar rcSTPD drivers/dma/built-in.o drivers/dma/dmaengine.o drivers/dma/virt-dma.o drivers/dma/of-dma.o drivers/dma/8250_mtk_dma.o drivers/dma/qcom/built-in.o drivers/dma/xilinx/built-in.o ; scripts/mod/modpost drivers/dma/built-in.o

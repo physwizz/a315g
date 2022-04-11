@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/c2k_usb/c2k_usb.o :=  rm -f drivers/misc/mediatek/c2k_usb/c2k_usb.o; /home/grahame/toolchains/aarch64-linux-android-4.9-master/bin/aarch64-linux-androidkernel-ar rcSTPD drivers/misc/mediatek/c2k_usb/c2k_usb.o drivers/misc/mediatek/c2k_usb/f_rawbulk.o drivers/misc/mediatek/c2k_usb/rawbulk.o drivers/misc/mediatek/c2k_usb/rawbulk_transfer.o 

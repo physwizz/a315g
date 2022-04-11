@@ -1,0 +1,10 @@
+!<thin>
+//                                              132       `
+supply/power_supply_core.o/
+supply/power_supply_sysfs.o/
+supply/power_supply_leds.o/
+supply/mediatek/misc/mtk_gauge_time_service.o/
+/0              0           0     0     644     253576    `
+/28             0           0     0     644     157912    `
+/57             0           0     0     644     132496    `
+/85             0           0     0     644     208176    `

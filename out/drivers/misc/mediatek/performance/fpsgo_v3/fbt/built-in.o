@@ -1,0 +1,10 @@
+!<thin>
+//                                              78        `
+platform/mt6768/fbt_cpu_platform.o/
+src/fbt_cpu.o/
+src/xgf.o/
+src/mini_top.o/
+/0              0           0     0     644     22472     `
+/36             0           0     0     644     480080    `
+/51             0           0     0     644     369912    `
+/62             0           0     0     644     220864    `

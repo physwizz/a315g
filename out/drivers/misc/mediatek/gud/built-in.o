@@ -1,0 +1,47 @@
+!<thin>
+//                                              616       `
+410/MobiCoreDriver/admin.o/
+410/MobiCoreDriver/client.o/
+410/MobiCoreDriver/clientlib.o/
+410/MobiCoreDriver/clock.o/
+410/MobiCoreDriver/fastcall.o/
+410/MobiCoreDriver/iwp.o/
+410/MobiCoreDriver/logging.o/
+410/MobiCoreDriver/main.o/
+410/MobiCoreDriver/mcp.o/
+410/MobiCoreDriver/mmu.o/
+410/MobiCoreDriver/nq.o/
+410/MobiCoreDriver/session.o/
+410/MobiCoreDriver/teeclientapi.o/
+410/MobiCoreDriver/user.o/
+410/MobiCoreDriver/xen_be.o/
+410/MobiCoreDriver/xen_common.o/
+410/MobiCoreDriver/xen_fe.o/
+410/TlcTui/main.o/
+410/TlcTui/tlcTui.o/
+410/TlcTui/trustedui.o/
+410/TlcTui/tui-hal_mt6768.o/
+410/sec-os-ctrl/sec_os_ctrl.o/
+
+/0              0           0     0     644     203584    `
+/28             0           0     0     644     376104    `
+/57             0           0     0     644     159888    `
+/89             0           0     0     644     1000      `
+/117            0           0     0     644     129816    `
+/148            0           0     0     644     185528    `
+/174            0           0     0     644     124904    `
+/204            0           0     0     644     193240    `
+/231            0           0     0     644     173096    `
+/257            0           0     0     644     156976    `
+/283            0           0     0     644     210192    `
+/308            0           0     0     644     320616    `
+/338            0           0     0     644     143496    `
+/373            0           0     0     644     176400    `
+/400            0           0     0     644     1000      `
+/429            0           0     0     644     1008      `
+/462            0           0     0     644     1000      `
+/491            0           0     0     644     144480    `
+/510            0           0     0     644     131888    `
+/531            0           0     0     644     20048     `
+/555            0           0     0     644     20952     `
+/584            0           0     0     644     124920    `

@@ -1,0 +1,1 @@
+cmd_drivers/usb/core/built-in.o :=   rm -f drivers/usb/core/built-in.o; /home/grahame/toolchains/aarch64-linux-android-4.9-master/bin/aarch64-linux-androidkernel-ar rcSTPD drivers/usb/core/built-in.o drivers/usb/core/usbcore.o ; scripts/mod/modpost drivers/usb/core/built-in.o

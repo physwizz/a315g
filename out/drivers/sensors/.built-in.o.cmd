@@ -1,0 +1,1 @@
+cmd_drivers/sensors/built-in.o :=   rm -f drivers/sensors/built-in.o; /home/grahame/toolchains/aarch64-linux-android-4.9-master/bin/aarch64-linux-androidkernel-ar rcSTPD drivers/sensors/built-in.o drivers/sensors/sx9360.o drivers/sensors/sx9360_sub.o ; scripts/mod/modpost drivers/sensors/built-in.o

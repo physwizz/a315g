@@ -1,0 +1,1 @@
+cmd_usr/built-in.o :=   rm -f usr/built-in.o; /home/grahame/toolchains/aarch64-linux-android-4.9-master/bin/aarch64-linux-androidkernel-ar rcSTPD usr/built-in.o usr/initramfs_data.o ; scripts/mod/modpost usr/built-in.o

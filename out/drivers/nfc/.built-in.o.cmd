@@ -1,0 +1,1 @@
+cmd_drivers/nfc/built-in.o :=   rm -f drivers/nfc/built-in.o; /home/grahame/toolchains/aarch64-linux-android-4.9-master/bin/aarch64-linux-androidkernel-ar rcSTPD drivers/nfc/built-in.o drivers/nfc/sec_nfc.o drivers/nfc/nfc_logger/nfc_logger.o ; scripts/mod/modpost drivers/nfc/built-in.o

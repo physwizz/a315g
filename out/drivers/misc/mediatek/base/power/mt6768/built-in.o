@@ -1,0 +1,10 @@
+!<thin>
+//                                              64        `
+mtk_picachu.o/
+mtk_gpufreq_core.o/
+mtk_gpu_log.o/
+mtk_gpu_bw.o/
+/0              0           0     0     644     145168    `
+/15             0           0     0     644     423760    `
+/35             0           0     0     644     3200      `
+/50             0           0     0     644     116544    `

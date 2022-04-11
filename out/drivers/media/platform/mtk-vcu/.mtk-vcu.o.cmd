@@ -1,0 +1,1 @@
+cmd_drivers/media/platform/mtk-vcu/mtk-vcu.o :=  rm -f drivers/media/platform/mtk-vcu/mtk-vcu.o; /home/grahame/toolchains/aarch64-linux-android-4.9-master/bin/aarch64-linux-androidkernel-ar rcSTPD drivers/media/platform/mtk-vcu/mtk-vcu.o drivers/media/platform/mtk-vcu/mtk_vcu.o drivers/media/platform/mtk-vcu/mtk_vcodec_mem.o 

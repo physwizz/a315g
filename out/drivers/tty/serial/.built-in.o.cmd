@@ -1,0 +1,1 @@
+cmd_drivers/tty/serial/built-in.o :=   rm -f drivers/tty/serial/built-in.o; /home/grahame/toolchains/aarch64-linux-android-4.9-master/bin/aarch64-linux-androidkernel-ar rcSTPD drivers/tty/serial/built-in.o drivers/tty/serial/serial_core.o drivers/tty/serial/earlycon.o drivers/tty/serial/8250/built-in.o ; scripts/mod/modpost drivers/tty/serial/built-in.o

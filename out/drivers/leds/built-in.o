@@ -1,0 +1,12 @@
+!<thin>
+//                                              82        `
+led-core.o/
+led-class.o/
+led-triggers.o/
+leds-s2mu106.o/
+trigger/ledtrig-timer.o/
+/0              0           0     0     644     155984    `
+/12             0           0     0     644     156064    `
+/25             0           0     0     644     156088    `
+/41             0           0     0     644     264384    `
+/57            /0           0     0     644     131280    `

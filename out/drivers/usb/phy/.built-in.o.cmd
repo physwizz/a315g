@@ -1,0 +1,1 @@
+cmd_drivers/usb/phy/built-in.o :=   rm -f drivers/usb/phy/built-in.o; /home/grahame/toolchains/aarch64-linux-android-4.9-master/bin/aarch64-linux-androidkernel-ar rcSTPD drivers/usb/phy/built-in.o drivers/usb/phy/phy.o drivers/usb/phy/of.o drivers/usb/phy/phy-generic.o ; scripts/mod/modpost drivers/usb/phy/built-in.o

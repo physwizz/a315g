@@ -1,0 +1,1 @@
+cmd_drivers/net/slip/built-in.o :=   rm -f drivers/net/slip/built-in.o; /home/grahame/toolchains/aarch64-linux-android-4.9-master/bin/aarch64-linux-androidkernel-ar rcSTPD drivers/net/slip/built-in.o drivers/net/slip/slhc.o ; scripts/mod/modpost drivers/net/slip/built-in.o

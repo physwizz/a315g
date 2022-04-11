@@ -1,0 +1,12 @@
+!<thin>
+//                                              106       `
+boostctrl_main.o/
+dram_ctrl/dram_ctrl.o/
+cpu_ctrl/cpu_ctrl.o/
+eas_ctrl/eas_ctrl.o/
+topo_ctrl/topo_ctrl.o/
+/0              0           0     0     644     5800      `
+/18             0           0     0     644     112368    `
+/41             0           0     0     644     219272    `
+/62             0           0     0     644     328352    `
+/83             0           0     0     644     118008    `

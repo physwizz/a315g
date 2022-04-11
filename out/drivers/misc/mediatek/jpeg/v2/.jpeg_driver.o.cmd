@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/jpeg/v2/jpeg_driver.o :=  rm -f drivers/misc/mediatek/jpeg/v2/jpeg_driver.o; /home/grahame/toolchains/aarch64-linux-android-4.9-master/bin/aarch64-linux-androidkernel-ar rcSTPD drivers/misc/mediatek/jpeg/v2/jpeg_driver.o drivers/misc/mediatek/jpeg/v2/jpeg_drv_enc.o drivers/misc/mediatek/jpeg/v2/jpeg_drv_dec.o drivers/misc/mediatek/jpeg/v2/jpeg_drv.o 

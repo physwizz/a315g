@@ -1,0 +1,1 @@
+cmd_drivers/hid/hid-wiimote.o :=  rm -f drivers/hid/hid-wiimote.o; /home/grahame/toolchains/aarch64-linux-android-4.9-master/bin/aarch64-linux-androidkernel-ar rcSTPD drivers/hid/hid-wiimote.o drivers/hid/hid-wiimote-core.o drivers/hid/hid-wiimote-modules.o 

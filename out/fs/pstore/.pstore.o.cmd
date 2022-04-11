@@ -1,0 +1,1 @@
+cmd_fs/pstore/pstore.o :=  rm -f fs/pstore/pstore.o; /home/grahame/toolchains/aarch64-linux-android-4.9-master/bin/aarch64-linux-androidkernel-ar rcSTPD fs/pstore/pstore.o fs/pstore/inode.o fs/pstore/platform.o fs/pstore/pmsg.o 

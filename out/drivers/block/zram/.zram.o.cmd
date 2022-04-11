@@ -1,0 +1,1 @@
+cmd_drivers/block/zram/zram.o :=  rm -f drivers/block/zram/zram.o; /home/grahame/toolchains/aarch64-linux-android-4.9-master/bin/aarch64-linux-androidkernel-ar rcSTPD drivers/block/zram/zram.o drivers/block/zram/zcomp.o drivers/block/zram/zram_drv.o 

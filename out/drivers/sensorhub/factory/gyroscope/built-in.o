@@ -1,0 +1,10 @@
+!<thin>
+//                                              112       `
+gyroscope_factory.o/
+gyroscope_icm42605m_factory.o/
+gyroscope_lsm6dsl_factory.o/
+gyroscope_lsm6dsotr_factory.o/
+/0              0           0     0     644     134424    `
+/21             0           0     0     644     146248    `
+/52             0           0     0     644     146672    `
+/81             0           0     0     644     146704    `

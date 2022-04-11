@@ -1,0 +1,1 @@
+cmd_drivers/input/input-core.o :=  rm -f drivers/input/input-core.o; /home/grahame/toolchains/aarch64-linux-android-4.9-master/bin/aarch64-linux-androidkernel-ar rcSTPD drivers/input/input-core.o drivers/input/input.o drivers/input/input-compat.o drivers/input/input-mt.o drivers/input/ff-core.o 

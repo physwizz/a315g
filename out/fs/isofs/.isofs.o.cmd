@@ -1,0 +1,1 @@
+cmd_fs/isofs/isofs.o :=  rm -f fs/isofs/isofs.o; /home/grahame/toolchains/aarch64-linux-android-4.9-master/bin/aarch64-linux-androidkernel-ar rcSTPD fs/isofs/isofs.o fs/isofs/namei.o fs/isofs/inode.o fs/isofs/dir.o fs/isofs/util.o fs/isofs/rock.o fs/isofs/export.o fs/isofs/joliet.o fs/isofs/compress.o 

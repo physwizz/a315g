@@ -1,0 +1,10 @@
+!<thin>
+//                                              106       `
+accelerometer_icm42605m.o/
+accelerometer_lsm6dsl.o/
+accelerometer_lis2dlc12.o/
+accelerometer_lsm6dsotr.o/
+/0              0           0     0     644     122168    `
+/27             0           0     0     644     122144    `
+/52             0           0     0     644     122168    `
+/79             0           0     0     644     122168    `

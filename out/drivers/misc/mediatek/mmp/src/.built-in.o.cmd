@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/mmp/src/built-in.o :=   rm -f drivers/misc/mediatek/mmp/src/built-in.o; /home/grahame/toolchains/aarch64-linux-android-4.9-master/bin/aarch64-linux-androidkernel-ar rcSTPD drivers/misc/mediatek/mmp/src/built-in.o drivers/misc/mediatek/mmp/src/mmprofile.o ; scripts/mod/modpost drivers/misc/mediatek/mmp/src/built-in.o

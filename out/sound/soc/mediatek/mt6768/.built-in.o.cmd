@@ -1,0 +1,1 @@
+cmd_sound/soc/mediatek/mt6768/built-in.o :=   rm -f sound/soc/mediatek/mt6768/built-in.o; /home/grahame/toolchains/aarch64-linux-android-4.9-master/bin/aarch64-linux-androidkernel-ar rcSTPD sound/soc/mediatek/mt6768/built-in.o sound/soc/mediatek/mt6768/snd-soc-mt6768-afe.o sound/soc/mediatek/mt6768/mt6768-mt6358.o ; scripts/mod/modpost sound/soc/mediatek/mt6768/built-in.o

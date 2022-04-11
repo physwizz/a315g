@@ -1,0 +1,1 @@
+cmd_crypto/jitterentropy_rng.o :=  rm -f crypto/jitterentropy_rng.o; /home/grahame/toolchains/aarch64-linux-android-4.9-master/bin/aarch64-linux-androidkernel-ar rcSTPD crypto/jitterentropy_rng.o crypto/jitterentropy.o crypto/jitterentropy-kcapi.o 

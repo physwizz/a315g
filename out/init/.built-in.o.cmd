@@ -1,0 +1,1 @@
+cmd_init/built-in.o :=   rm -f init/built-in.o; /home/grahame/toolchains/aarch64-linux-android-4.9-master/bin/aarch64-linux-androidkernel-ar rcSTPD init/built-in.o init/main.o init/version.o init/mounts.o init/noinitramfs.o init/initramfs.o init/calibrate.o init/init_task.o ; scripts/mod/modpost init/built-in.o

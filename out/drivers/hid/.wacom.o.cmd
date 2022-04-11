@@ -1,0 +1,1 @@
+cmd_drivers/hid/wacom.o :=  rm -f drivers/hid/wacom.o; /home/grahame/toolchains/aarch64-linux-android-4.9-master/bin/aarch64-linux-androidkernel-ar rcSTPD drivers/hid/wacom.o drivers/hid/wacom_wac.o drivers/hid/wacom_sys.o 

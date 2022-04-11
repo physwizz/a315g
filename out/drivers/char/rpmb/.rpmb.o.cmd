@@ -1,0 +1,1 @@
+cmd_drivers/char/rpmb/rpmb.o :=  rm -f drivers/char/rpmb/rpmb.o; /home/grahame/toolchains/aarch64-linux-android-4.9-master/bin/aarch64-linux-androidkernel-ar rcSTPD drivers/char/rpmb/rpmb.o drivers/char/rpmb/core.o 

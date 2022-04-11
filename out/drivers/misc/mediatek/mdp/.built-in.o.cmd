@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/mdp/built-in.o :=   rm -f drivers/misc/mediatek/mdp/built-in.o; /home/grahame/toolchains/aarch64-linux-android-4.9-master/bin/aarch64-linux-androidkernel-ar rcSTPD drivers/misc/mediatek/mdp/built-in.o drivers/misc/mediatek/mdp/mdp_ioctl_ex.o drivers/misc/mediatek/mdp/mdp_m4u.o ; scripts/mod/modpost drivers/misc/mediatek/mdp/built-in.o

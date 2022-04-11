@@ -1,0 +1,10 @@
+!<thin>
+//                                              74        `
+mtk_lp_kernfs.o/
+mtk_lp_sysfs.o/
+mtk_idle_sysfs.o/
+mtk_lp_sysfs_procfs.o/
+/0             /0           0     0     644     123896    `
+/17             0           0     0     644     13080     `
+/33             0           0     0     644     111360    `
+/51             0           0     0     644     113624    `

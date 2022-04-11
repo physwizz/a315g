@@ -1,0 +1,59 @@
+!<thin>
+//                                              610       `
+input.o/
+input-compat.o/
+input-mt.o/
+ff-core.o/
+sec_cmd.o/
+sec_tsp_log.o/
+sec_tclm_v2.o/
+ff-memless.o/
+input-leds.o/
+evdev.o/
+keyboard/mediatek/kpd.o/
+keyboard/mediatek/mt6768/hal_kpd.o/
+joystick/xpad.o/
+tablet/acecad.o/
+tablet/aiptek.o/
+tablet/gtco.o/
+tablet/hanwang.o/
+tablet/kbtab.o/
+touchscreen/of_touchscreen.o/
+touchscreen/imagis/ist4050/ist40xx.o/
+touchscreen/imagis/ist4050/ist40xx_misc.o/
+touchscreen/imagis/ist4050/ist40xx_sys.o/
+touchscreen/imagis/ist4050/ist40xx_update.o/
+touchscreen/imagis/ist4050/ist40xx_sec.o/
+touchscreen/imagis/ist4050/ist40xx_cmcs.o/
+misc/uinput.o/
+keyreset.o/
+keycombo.o/
+
+/0              0           0     0     644     383440    `
+/9              0           0     0     644     147232    `
+/25             0           0     0     644     168576    `
+/37             0           0     0     644     158472    `
+/48             0           0     0     644     180368    `
+/59             0           0     0     644     163824    `
+/74             0           0     0     644     187592    `
+/89             0           0     0     644     175544    `
+/103            0           0     0     644     150600    `
+/117            0           0     0     644     382328    `
+/126            0           0     0     644     509336    `
+/151            0           0     0     644     461272    `
+/187            0           0     0     644     280144    `
+/204            0           0     0     644     178608    `
+/221            0           0     0     644     274240    `
+/238            0           0     0     644     215456    `
+/253            0           0     0     644     193544    `
+/271            0           0     0     644     175208    `
+/287            0           0     0     644     151408    `
+/317            0           0     0     644     475048    `
+/355            0           0     0     644     305712    `
+/398            0           0     0     644     263744    `
+/440            0           0     0     644     328584    `
+/485            0           0     0     644     907424    `
+/527            0           0     0     644     270624    `
+/570            0           0     0     644     251168    `
+/585            0           0     0     644     182776    `
+/597            0           0     0     644     162152    `

@@ -1,0 +1,1 @@
+cmd_sound/core/snd-rawmidi.o :=  rm -f sound/core/snd-rawmidi.o; /home/grahame/toolchains/aarch64-linux-android-4.9-master/bin/aarch64-linux-androidkernel-ar rcSTPD sound/core/snd-rawmidi.o sound/core/rawmidi.o 

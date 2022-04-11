@@ -1,0 +1,1 @@
+cmd_fs/pstore/ramoops.o :=  rm -f fs/pstore/ramoops.o; /home/grahame/toolchains/aarch64-linux-android-4.9-master/bin/aarch64-linux-androidkernel-ar rcSTPD fs/pstore/ramoops.o fs/pstore/ram.o fs/pstore/ram_core.o 

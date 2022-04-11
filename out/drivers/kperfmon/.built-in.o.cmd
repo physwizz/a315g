@@ -1,0 +1,1 @@
+cmd_drivers/kperfmon/built-in.o :=   rm -f drivers/kperfmon/built-in.o; /home/grahame/toolchains/aarch64-linux-android-4.9-master/bin/aarch64-linux-androidkernel-ar rcSTPD drivers/kperfmon/built-in.o drivers/kperfmon/ologk.o ; scripts/mod/modpost drivers/kperfmon/built-in.o

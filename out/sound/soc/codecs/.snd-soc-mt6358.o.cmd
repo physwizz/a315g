@@ -1,0 +1,1 @@
+cmd_sound/soc/codecs/snd-soc-mt6358.o :=  rm -f sound/soc/codecs/snd-soc-mt6358.o; /home/grahame/toolchains/aarch64-linux-android-4.9-master/bin/aarch64-linux-androidkernel-ar rcSTPD sound/soc/codecs/snd-soc-mt6358.o sound/soc/codecs/mt6358.o 

@@ -1,0 +1,1 @@
+cmd_drivers/net/dsa/built-in.o :=   rm -f drivers/net/dsa/built-in.o; /home/grahame/toolchains/aarch64-linux-android-4.9-master/bin/aarch64-linux-androidkernel-ar rcSTPD drivers/net/dsa/built-in.o drivers/net/dsa/b53/built-in.o drivers/net/dsa/microchip/built-in.o drivers/net/dsa/mv88e6xxx/built-in.o ; scripts/mod/modpost drivers/net/dsa/built-in.o

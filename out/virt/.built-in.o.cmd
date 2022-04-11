@@ -1,0 +1,1 @@
+cmd_virt/built-in.o :=   rm -f virt/built-in.o; /home/grahame/toolchains/aarch64-linux-android-4.9-master/bin/aarch64-linux-androidkernel-ar rcSTPD virt/built-in.o virt/lib/built-in.o ; scripts/mod/modpost virt/built-in.o

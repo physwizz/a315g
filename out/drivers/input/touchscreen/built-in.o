@@ -1,0 +1,17 @@
+!<thin>
+//                                              200       `
+of_touchscreen.o/
+imagis/ist4050/ist40xx.o/
+imagis/ist4050/ist40xx_misc.o/
+imagis/ist4050/ist40xx_sys.o/
+imagis/ist4050/ist40xx_update.o/
+imagis/ist4050/ist40xx_sec.o/
+imagis/ist4050/ist40xx_cmcs.o/
+
+/0              0           0     0     644     151408    `
+/18             0           0     0     644     475048    `
+/44             0           0     0     644     305712    `
+/75             0           0     0     644     263744    `
+/105            0           0     0     644     328584    `
+/138            0           0     0     644     907424    `
+/168            0           0     0     644     270624    `

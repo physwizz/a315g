@@ -1,0 +1,13 @@
+!<thin>
+//                                              164       `
+accelerometer_factory.o/
+accelerometer_icm42605m_factory.o/
+accelerometer_lis2dlc12_factory.o/
+accelerometer_lsm6dsl_factory.o/
+accelerometer_lsm6dsotr_factory.o/
+
+/0              0           0     0     644     145280    `
+/25             0           0     0     644     124280    `
+/60             0           0     0     644     124280    `
+/95             0           0     0     644     124256    `
+/128            0           0     0     644     124280    `

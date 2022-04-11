@@ -1,0 +1,1 @@
+cmd_drivers/block/zram/built-in.o :=   rm -f drivers/block/zram/built-in.o; /home/grahame/toolchains/aarch64-linux-android-4.9-master/bin/aarch64-linux-androidkernel-ar rcSTPD drivers/block/zram/built-in.o drivers/block/zram/zram.o ; scripts/mod/modpost drivers/block/zram/built-in.o

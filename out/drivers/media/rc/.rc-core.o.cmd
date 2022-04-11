@@ -1,0 +1,1 @@
+cmd_drivers/media/rc/rc-core.o :=  rm -f drivers/media/rc/rc-core.o; /home/grahame/toolchains/aarch64-linux-android-4.9-master/bin/aarch64-linux-androidkernel-ar rcSTPD drivers/media/rc/rc-core.o drivers/media/rc/rc-main.o drivers/media/rc/rc-ir-raw.o 

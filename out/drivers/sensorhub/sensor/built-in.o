@@ -1,0 +1,41 @@
+!<thin>
+//                                              292       `
+accelerometer.o/
+gyroscope.o/
+gyroscope_uncal.o/
+magnetometer.o/
+magnetometer_uncal.o/
+flip_cover_detector.o/
+light.o/
+light_cct.o/
+light_autobrightness.o/
+pressure.o/
+scontext.o/
+step.o/
+proximity.o/
+proximity_raw.o/
+proximity_calibration.o/
+motion.o/
+super.o/
+thermistor.o/
+pocket_mode.o/
+
+/0             /0           0     0     644     145200    `
+/17             0           0     0     644     145144    `
+/30             0           0     0     644     15696     `
+/49             0           0     0     644     144072    `
+/65             0           0     0     644     15648     `
+/87             0           0     0     644     22536     `
+/110            0           0     0     644     150488    `
+/119            0           0     0     644     19304     `
+/132            0           0     0     644     139624    `
+/156            0           0     0     644     19448     `
+/168            0           0     0     644     143128    `
+/180            0           0     0     644     16936     `
+/188            0           0     0     644     145120    `
+/201           /0           0     0     644     16952     `
+/218            0           0     0     644     122712    `
+/243            0           0     0     644     23032     `
+/253            0           0     0     644     12976     `
+/262            0           0     0     644     15248     `
+/276            0           0     0     644     14016     `

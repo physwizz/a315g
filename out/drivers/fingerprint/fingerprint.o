@@ -1,0 +1,12 @@
+!<thin>
+//                                              110       `
+fingerprint_common.o/
+fingerprint_common_mtk.o/
+et7xx-spi.o/
+et7xx-spi_data_transfer.o/
+et7xx-spi_platform.o/
+/0              0           0     0     644     5344      `
+/22             0           0     0     644     5512      `
+/48             0           0     0     644     252000    `
+/61             0           0     0     644     151536    `
+/88             0           0     0     644     152568    `

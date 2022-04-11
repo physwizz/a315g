@@ -1,0 +1,1 @@
+cmd_drivers/hid/hid.o :=  rm -f drivers/hid/hid.o; /home/grahame/toolchains/aarch64-linux-android-4.9-master/bin/aarch64-linux-androidkernel-ar rcSTPD drivers/hid/hid.o drivers/hid/hid-core.o drivers/hid/hid-input.o drivers/hid/hidraw.o 

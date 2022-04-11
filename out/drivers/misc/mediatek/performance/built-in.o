@@ -1,0 +1,81 @@
+!<thin>
+//                                              1086      `
+perfmgr_main.o/
+base/utility.o/
+observer/pob_main.o/
+observer/fpsgo_notify.o/
+observer/qos_notify.o/
+observer/nn_notify.o/
+observer/xpu_notify.o/
+observer/eara_thrm_notify.o/
+observer/platform/mt6768/qos_pfm.o/
+observer/platform/mt6768/obpfm_qos_bound.o/
+resym/rs_trace.o/
+resym/rs_base.o/
+resym/rs_main.o/
+resym/rs_usage.o/
+resym/rs_state.o/
+resym/platform/mt6768/rs_vpu_pfm.o/
+resym/platform/mt6768/rs_mdla_pfm.o/
+boost_ctrl/boostctrl_main.o/
+boost_ctrl/dram_ctrl/dram_ctrl.o/
+boost_ctrl/cpu_ctrl/cpu_ctrl.o/
+boost_ctrl/eas_ctrl/eas_ctrl.o/
+boost_ctrl/topo_ctrl/topo_ctrl.o/
+syslimiter/syslimiter.o/
+tchbst/tchbst_main.o/
+tchbst/user/utch.o/
+tchbst/kernel/ktch.o/
+perf_ioctl/perf_ioctl.o/
+fpsgo_v3/fpsgo_main.o/
+fpsgo_v3/base/src/fpsgo_base.o/
+fpsgo_v3/base/src/fpsgo_sysfs.o/
+fpsgo_v3/composer/src/fps_composer.o/
+fpsgo_v3/fbt/platform/mt6768/fbt_cpu_platform.o/
+fpsgo_v3/fbt/src/fbt_cpu.o/
+fpsgo_v3/fbt/src/xgf.o/
+fpsgo_v3/fbt/src/mini_top.o/
+fpsgo_v3/fstb/fstb.o/
+eara_thermal/platform/mt6768/thermal_budget_platform.o/
+eara_thermal/thermal_budget.o/
+eara_thermal/thermal_base.o/
+
+/0              0           0     0     644     159560    `
+/16             0           0     0     644     177592    `
+/32             0           0     0     644     197216    `
+/53             0           0     0     644     9392      `
+/78             0           0     0     644     229000    `
+/101            0           0     0     644     8080      `
+/123            0           0     0     644     11392     `
+/146            0           0     0     644     8112      `
+/175            0           0     0     644     40704     `
+/211            0           0     0     644     192064    `
+/255            0           0     0     644     166384    `
+/273            0           0     0     644     98752     `
+/290            0           0     0     644     17264     `
+/307            0           0     0     644     223576    `
+/325            0           0     0     644     22024     `
+/343            0           0     0     644     4448      `
+/379            0           0     0     644     4464      `
+/416            0           0     0     644     5800      `
+/445            0           0     0     644     112368    `
+/479            0           0     0     644     219272    `
+/511            0           0     0     644     328352    `
+/543            0           0     0     644     118008    `
+/577            0           0     0     644     194896    `
+/602            0           0     0     644     5216      `
+/624            0           0     0     644     197584    `
+/644            0           0     0     644     209120    `
+/666            0           0     0     644     186288    `
+/691            0           0     0     644     270832    `
+/714            0           0     0     644     263440    `
+/746            0           0     0     644     22888     `
+/779            0           0     0     644     185296    `
+/817            0           0     0     644     22472     `
+/866            0           0     0     644     480080    `
+/894            0           0     0     644     369912    `
+/918            0           0     0     644     220864    `
+/947            0           0     0     644     336256    `
+/969            0           0     0     644     10216     `
+/1025           0           0     0     644     392352    `
+/1056           0           0     0     644     170272    `

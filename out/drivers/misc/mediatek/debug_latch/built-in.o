@@ -1,0 +1,12 @@
+!<thin>
+//                                              142       `
+plat_dbg_info/plat_dbg_info.o/
+plat_dbg_info/plat_sram_flag.o/
+cache_parity/cache_parity.o/
+lastbus/lastbus.o/
+lastbus/mt6768/plat_lastbus.o/
+/0             /0           0     0     644     127016    `
+/31             0           0     0     644     139104    `
+/63             0           0     0     644     176208    `
+/92             0           0     0     644     129560    `
+/111            0           0     0     644     41504     `

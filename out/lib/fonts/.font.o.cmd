@@ -1,0 +1,1 @@
+cmd_lib/fonts/font.o :=  rm -f lib/fonts/font.o; /home/grahame/toolchains/aarch64-linux-android-4.9-master/bin/aarch64-linux-androidkernel-ar rcSTPD lib/fonts/font.o lib/fonts/fonts.o lib/fonts/font_8x16.o 

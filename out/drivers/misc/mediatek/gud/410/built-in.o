@@ -1,0 +1,47 @@
+!<thin>
+//                                              528       `
+MobiCoreDriver/admin.o/
+MobiCoreDriver/client.o/
+MobiCoreDriver/clientlib.o/
+MobiCoreDriver/clock.o/
+MobiCoreDriver/fastcall.o/
+MobiCoreDriver/iwp.o/
+MobiCoreDriver/logging.o/
+MobiCoreDriver/main.o/
+MobiCoreDriver/mcp.o/
+MobiCoreDriver/mmu.o/
+MobiCoreDriver/nq.o/
+MobiCoreDriver/session.o/
+MobiCoreDriver/teeclientapi.o/
+MobiCoreDriver/user.o/
+MobiCoreDriver/xen_be.o/
+MobiCoreDriver/xen_common.o/
+MobiCoreDriver/xen_fe.o/
+TlcTui/main.o/
+TlcTui/tlcTui.o/
+TlcTui/trustedui.o/
+TlcTui/tui-hal_mt6768.o/
+sec-os-ctrl/sec_os_ctrl.o/
+
+/0              0           0     0     644     203584    `
+/24             0           0     0     644     376104    `
+/49             0           0     0     644     159888    `
+/77             0           0     0     644     1000      `
+/101            0           0     0     644     129816    `
+/128            0           0     0     644     185528    `
+/150            0           0     0     644     124904    `
+/176            0           0     0     644     193240    `
+/199            0           0     0     644     173096    `
+/221            0           0     0     644     156976    `
+/243            0           0     0     644     210192    `
+/264            0           0     0     644     320616    `
+/290            0           0     0     644     143496    `
+/321            0           0     0     644     176400    `
+/344            0           0     0     644     1000      `
+/369            0           0     0     644     1008      `
+/398            0           0     0     644     1000      `
+/423            0           0     0     644     144480    `
+/438            0           0     0     644     131888    `
+/455            0           0     0     644     20048     `
+/475            0           0     0     644     20952     `
+/500            0           0     0     644     124920    `

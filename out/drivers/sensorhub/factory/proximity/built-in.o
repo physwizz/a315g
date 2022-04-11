@@ -1,0 +1,13 @@
+!<thin>
+//                                              140       `
+proximity_factory.o/
+proximity_gp2ap110s_factory.o/
+proximity_stk3x6x_factory.o/
+proximity_stk3328_factory.o/
+proximity_tmd4912_factory.o/
+
+/0              0           0     0     644     146784    `
+/21             0           0     0     644     140616    `
+/52             0           0     0     644     125968    `
+/81             0           0     0     644     115600    `
+/110            0           0     0     644     137064    `

@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/ccmni/eccmni.o :=  rm -f drivers/misc/mediatek/ccmni/eccmni.o; /home/grahame/toolchains/aarch64-linux-android-4.9-master/bin/aarch64-linux-androidkernel-ar rcSTPD drivers/misc/mediatek/ccmni/eccmni.o drivers/misc/mediatek/ccmni/ccmni.o 

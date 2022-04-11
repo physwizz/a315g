@@ -1,0 +1,1 @@
+cmd_sound/usb/snd-usbmidi-lib.o :=  rm -f sound/usb/snd-usbmidi-lib.o; /home/grahame/toolchains/aarch64-linux-android-4.9-master/bin/aarch64-linux-androidkernel-ar rcSTPD sound/usb/snd-usbmidi-lib.o sound/usb/midi.o 

@@ -1,0 +1,1 @@
+cmd_drivers/sensorhub/comm/built-in.o :=   rm -f drivers/sensorhub/comm/built-in.o; /home/grahame/toolchains/aarch64-linux-android-4.9-master/bin/aarch64-linux-androidkernel-ar rcSTPD drivers/sensorhub/comm/built-in.o drivers/sensorhub/comm/shub_comm.o drivers/sensorhub/comm/shub_iio.o drivers/sensorhub/comm/shub_kfifo_buf.o ; scripts/mod/modpost drivers/sensorhub/comm/built-in.o

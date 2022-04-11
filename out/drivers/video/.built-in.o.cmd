@@ -1,0 +1,1 @@
+cmd_drivers/video/built-in.o :=   rm -f drivers/video/built-in.o; /home/grahame/toolchains/aarch64-linux-android-4.9-master/bin/aarch64-linux-androidkernel-ar rcSTPD drivers/video/built-in.o drivers/video/logo/built-in.o drivers/video/backlight/built-in.o drivers/video/fbdev/built-in.o ; scripts/mod/modpost drivers/video/built-in.o

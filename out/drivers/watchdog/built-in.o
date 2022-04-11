@@ -1,0 +1,14 @@
+!<thin>
+//                                              138       `
+watchdog_core.o/
+watchdog_dev.o/
+softdog.o/
+mediatek/wdk/wd_common_drv.o/
+mediatek/wdk/wd_api.o/
+mediatek/wdt/common/wdt_v2/mtk_wdt_v2.o/
+/0             /0           0     0     644     156936    `
+/17             0           0     0     644     260424    `
+/33             0           0     0     644     133440    `
+/44            /0           0     0     644     262432    `
+/74             0           0     0     644     39912     `
+/97             0           0     0     644     243192    `

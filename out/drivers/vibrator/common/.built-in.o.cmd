@@ -1,0 +1,1 @@
+cmd_drivers/vibrator/common/built-in.o :=   rm -f drivers/vibrator/common/built-in.o; /home/grahame/toolchains/aarch64-linux-android-4.9-master/bin/aarch64-linux-androidkernel-ar rcSTPD drivers/vibrator/common/built-in.o drivers/vibrator/common/sec_vibrator.o ; scripts/mod/modpost drivers/vibrator/common/built-in.o

@@ -1,0 +1,1 @@
+cmd_sound/core/seq/built-in.o :=   rm -f sound/core/seq/built-in.o; /home/grahame/toolchains/aarch64-linux-android-4.9-master/bin/aarch64-linux-androidkernel-ar rcSTPD sound/core/seq/built-in.o sound/core/seq/snd-seq.o sound/core/seq/snd-seq-dummy.o sound/core/seq/snd-seq-midi.o sound/core/seq/snd-seq-midi-event.o ; scripts/mod/modpost sound/core/seq/built-in.o

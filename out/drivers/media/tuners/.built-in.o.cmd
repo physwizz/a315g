@@ -1,0 +1,1 @@
+cmd_drivers/media/tuners/built-in.o :=  rm -f drivers/media/tuners/built-in.o; /home/grahame/toolchains/aarch64-linux-android-4.9-master/bin/aarch64-linux-androidkernel-ar rcSTPD drivers/media/tuners/built-in.o

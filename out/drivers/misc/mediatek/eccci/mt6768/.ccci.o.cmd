@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/eccci/mt6768/ccci.o :=  rm -f drivers/misc/mediatek/eccci/mt6768/ccci.o; /home/grahame/toolchains/aarch64-linux-android-4.9-master/bin/aarch64-linux-androidkernel-ar rcSTPD drivers/misc/mediatek/eccci/mt6768/ccci.o drivers/misc/mediatek/eccci/mt6768/ccci_platform.o drivers/misc/mediatek/eccci/mt6768/md_sys1_platform.o 
